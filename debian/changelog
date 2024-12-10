@@ -1,3 +1,10 @@
+statsdcc (0.14gnt1) noble; urgency=medium
+
+  * Fix variables typing/casting issues
+  * Build for Noble
+
+ -- Hervé BRY <herve.bry@geneanet.org>  Tue, 10 Dec 2024 12:15:58 +0100
+
 statsdcc (0.14) xenial; urgency=medium
 
   * Initial Release.
